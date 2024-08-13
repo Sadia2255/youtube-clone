@@ -10,7 +10,7 @@ To download the program, simply install all of the files in the repository.
 ### Executing program
 
 To deploy as a web app, you can use a website hosting service, such as GitHub pages.
-A link to the web service is on my GitHubvas well!
+A link to the web service is on my GitHub as well!
 
 ## Acknowledgments
 
